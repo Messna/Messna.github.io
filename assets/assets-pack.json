@@ -1,0 +1,180 @@
+{
+    "level": [
+        {
+            "type": "script",
+            "key": "scene1",
+            "url": "assets/scenes/Scene1.js"
+        },
+        {
+            "type": "atlas",
+            "key": "tilesSmw",
+            "textureURL": "assets/textures/tilesSmw.png",
+            "atlasURL": "assets/textures/tilesSmw.json",
+            "format": "TEXTURE_ATLAS_JSON_ARRAY"
+        },
+        {
+            "type": "spritesheet",
+            "key": "background_stars",
+            "url": "assets/images/background_stars.png",
+            "frameWidth": 512,
+            "frameHeight": 432,
+            "frameMax": -1,
+            "margin": 0,
+            "spacing": 0
+        },
+        {
+            "type": "image",
+            "key": "mushroom",
+            "url": "assets/images/mushroom.png",
+            "overwrite": false
+        },
+        {
+            "type": "audio",
+            "key": "smw_coin",
+            "urls": ["assets/audios/smw_coin.wav"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "smw_lost_a_life",
+            "urls": ["assets/audios/smw_lost_a_life.wav"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "smw_power-up",
+            "urls": ["assets/audios/smw_power-up.wav"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "smw_power-up_appears",
+            "urls": ["assets/audios/smw_power-up_appears.wav"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "level1",
+            "urls": ["assets/audios/level1.mp3"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "smw_jump",
+            "urls": ["assets/audios/smw_jump.wav"],
+            "autoDecode": true
+        },
+        {
+            "type": "image",
+            "key": "buttonStart",
+            "url": "assets/images/buttonStart.png",
+            "overwrite": false
+        },
+        {
+            "type": "spritesheet",
+            "key": "goomba",
+            "url": "assets/images/goomba.png",
+            "frameWidth": 51,
+            "frameHeight": 96,
+            "frameMax": -1,
+            "margin": 0,
+            "spacing": 0
+        },
+        {
+            "type": "spritesheet",
+            "key": "mario_big",
+            "url": "assets/images/mario_big.png",
+            "frameWidth": 51,
+            "frameHeight": 96,
+            "frameMax": -1,
+            "margin": 0,
+            "spacing": 0
+        },
+        {
+            "type": "spritesheet",
+            "key": "mario_small",
+            "url": "assets/images/mario_small.png",
+            "frameWidth": 51,
+            "frameHeight": 96,
+            "frameMax": -1,
+            "margin": 0,
+            "spacing": 0
+        },
+        {
+            "type": "spritesheet",
+            "key": "muncher",
+            "url": "assets/images/muncher.png",
+            "frameWidth": 51,
+            "frameHeight": 96,
+            "frameMax": -1,
+            "margin": 0,
+            "spacing": 0
+        },
+        {
+            "type": "audio",
+            "key": "smw_pipe",
+            "urls": ["assets/audios/smw_pipe.wav"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "smw_stomp",
+            "urls": ["assets/audios/smw_stomp.wav"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "titlemusic",
+            "urls": ["assets/audios/titlemusic.mp3"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "mario-yippee",
+            "urls": ["assets/audios/mario-yippee.wav"],
+            "autoDecode": true
+        },
+        {
+            "type": "image",
+            "key": "background_normal",
+            "url": "assets/images/background_normal.png",
+            "overwrite": false
+        },
+        {
+            "type": "script",
+            "key": "scene2",
+            "url": "assets/scenes/Scene2.js"
+        },
+        {
+            "type": "audio",
+            "key": "sm64_here_we_go",
+            "urls": ["assets/audios/sm64_here_we_go.wav"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "mario-theend",
+            "urls": ["assets/audios/mario-theend.wav"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "level2",
+            "urls": ["assets/audios/level2.mp3"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "smw_spring_jump",
+            "urls": ["assets/audios/smw_spring_jump.wav"],
+            "autoDecode": true
+        }
+    ],
+    "meta": {
+        "generated": "1487879227466",
+        "app": "Phaser Editor",
+        "url": "http://phasereditor.boniatillo.com",
+        "version": "1.0",
+        "copyright": "Arian Fornaris (c) 2015,2016"
+    }
+}
